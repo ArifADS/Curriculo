@@ -23,8 +23,8 @@ Meanwhile since I have always made the backends for my personal projects, I star
   * Fiscal receipt system in Node.js
   * iOS PoS App
   * Web SPA in React for Receipt management.
-* Quadram (February 2018 - )
-  * Develop new or update existing Apps in the company.
+* Quadram Services (February 2018 - September 2018)
+  * Develop new and update existing Apps in the company.
 
 ## Languages
 * Spanish, native.

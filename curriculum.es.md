@@ -23,7 +23,7 @@ Entretanto entre proyectos decidí cambiar el PHP por Node.js como programación
 	* Sistema de facturación fiscal en Node.js
 	* Aplicación movil iOS POS
 	* Aplicación Web en React de manejo de fiscal
-* Quadram (Febrero 2018 - )
+* Quadram Services (Febrero 2018 - Septiembre 2018)
 	* Desarrollo de Apps iOS y mantenimiento.
 
 ## Idiomas
