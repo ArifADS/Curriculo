@@ -15,16 +15,17 @@ Meanwhile since I have always made the backends for my personal projects, I star
 
 
 ## Job Experience
-* Globaltronic GPS (Since May 2015, Freelance)
-  * iOS Development
-  * Back-end Parse/Push/PHP
+* Quadram Services (February 2018 - September 2018)
+  * Develop new and update more than 6 different apps in iOS with different requirements.
 * Pineapple Technologies (March 2016 - August 2017)
   * Backend Node.js
   * Fiscal receipt system in Node.js
   * iOS PoS App
   * Web SPA in React for Receipt management.
-* Quadram Services (February 2018 - September 2018)
-  * Develop new and update existing Apps in the company.
+* Globaltronic GPS (Since May 2015, Freelance)
+  * iOS Development
+  * Back-end Parse/Push/PHP
+
 
 ## Languages
 * Spanish, native.
@@ -33,8 +34,8 @@ Meanwhile since I have always made the backends for my personal projects, I star
 ## Programming languages
 * Swift (Cocoa Touch)
 * Javascript (Node.js, React)
-* PHP
 * Obj-C
+* PHP
 * AutoIT
 * C/++
 
@@ -52,6 +53,9 @@ Meanwhile since I have always made the backends for my personal projects, I star
 * Back-end or web services that connects with a MongoDB, MySQL or Postgres with a REST API, GraphQL or Push Endpoint.
 * Store data in SQL or NoSQL databases.
 * Single Page Web Apps (SPA) with React.js and Bootstrap.
+* Fastlane, iOS development and deployment workflow.
+* Gitflow, version control and agile development.
+* Markdown, easy to create and read documentation.
 
 
 ## Apps

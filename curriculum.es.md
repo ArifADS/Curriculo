@@ -15,16 +15,16 @@ Entretanto entre proyectos decidí cambiar el PHP por Node.js como programación
 
 
 ## Experiencia Laboral
-* Globaltronic GPS (Mayo 2015, Freelance)
-	* Desarrollo de aplicación movil iOS
-	* Back-end Parse/Push/PHP
+* Quadram Services (Febrero 2018 - Septiembre 2018)
+	* Desarrollo y mantenimiento de mas de 6 apps iOS con diferentes requerimientos
 * Pineapple Technologies (Marzo 2016 - Agosto 2017)
 	* Backend Node.js
 	* Sistema de facturación fiscal en Node.js
-	* Aplicación movil iOS POS
-	* Aplicación Web en React de manejo de fiscal
-* Quadram Services (Febrero 2018 - Septiembre 2018)
-	* Desarrollo de Apps iOS y mantenimiento.
+	* Aplicación movil iOS POS (TPV)
+	* Aplicación Web en React de manejo y visualización de facturas fiscales
+* Globaltronic GPS (Mayo 2015, Freelance)
+	* Desarrollo de aplicación movil iOS
+	* Back-end Parse/Push/PHP
 
 ## Idiomas
 * Inglés avanzado/técnico
@@ -32,11 +32,10 @@ Entretanto entre proyectos decidí cambiar el PHP por Node.js como programación
 
 
 ## Lenguajes de programación
-#### En orden de preferencia
 * Swift (Cocoa Touch)
 * Javascript (Node.js, React)
-* PHP
 * Obj-C
+* PHP
 * AutoIT
 * C/++
 
@@ -58,6 +57,10 @@ Entretanto entre proyectos decidí cambiar el PHP por Node.js como programación
 * Back-end o servicios web que conecten bases de datos MongDB, MySQL, Postgres con una REST API, GraphQL o Push Endpoint.
 * Almacenamiento en base de datos SQL o NoSQL.
 * Paginas Web de estilo SPA con React.js y Bootstrap.
+* Fastlane, automatizacion de desarrollo y deployments en iOS.
+* Gitflow, Control de versiones en un ambiente colaborativo.
+* Markdown, documentación fácil de crear y de leer.
+
 
 
 ## Apps
