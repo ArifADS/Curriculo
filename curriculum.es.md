@@ -17,6 +17,7 @@ Entretanto entre proyectos decidí cambiar el PHP por Node.js como programación
 ## Experiencia Laboral
 * Quadram Services (Febrero 2018 - Septiembre 2018)
 	* Desarrollo y mantenimiento de mas de 6 apps iOS con diferentes requerimientos
+	* Crear Cocoapods Frameworks para compartir código entre proyectos.
 * Pineapple Technologies (Marzo 2016 - Agosto 2017)
 	* Backend Node.js
 	* Sistema de facturación fiscal en Node.js

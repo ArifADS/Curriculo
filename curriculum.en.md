@@ -17,6 +17,7 @@ Meanwhile since I have always made the backends for my personal projects, I star
 ## Job Experience
 * Quadram Services (February 2018 - September 2018)
   * Develop new and update more than 6 different apps in iOS with different requirements.
+  * Create Cocoapods Frameworks for code sharing between projects.
 * Pineapple Technologies (March 2016 - August 2017)
   * Backend Node.js
   * Fiscal receipt system in Node.js
