@@ -7,14 +7,19 @@
 * GitHub: https://github.com/ArifADS
 
 ## About me
-I started to learn programming with a scripting language called AutoIt, for Windows, then I changed to macOS and I started on iOS Development with a personal app named "Beisbol Hoy", or "Baseball Today" in english, when iOS 7 landed in 2013, written in Obj-C but the next year I changed it to Swift 1.
+I started to learn programming with a scripting language called AutoIt, for Windows. When I changed to macOS I started on iOS Development with a personal app named "Beisbol Hoy", or "Baseball Today" in english, when iOS 7 landed in 2013, written in Obj-C but the next year I changed it to Swift 1.
 
-Later, I moved to Panama and worked as a freelance, I developed an app named "RTC GPS" that uses Google Maps services and a GPS installed in a vehicle, so you can have basic controls of its location, ignition, etc. It later integrated Bluetooth that calculates proximity and keyless door opening. After that I worked in a company named Pineapple Technologies for about 20 months, I developed a great Point Of Sale with inventory management and integration with Fiscal Printers through a Rasperry Pi (Invu POS).
+Later, I moved to Panama and worked as a freelance, I developed an app named "RTC GPS" that uses Google Maps services and a GPS installed in a vehicle, so you can have basic controls of its location, ignition, etc. It later integrated Bluetooth that calculates proximity and keyless door opening. 
 
-Meanwhile since I have always made the backends for my personal projects, I started to learn Node.js, changing from the ageing PHP, which worked perfect for the server I installed in the Rasperry Pi projects.
+After that I worked in a company named Pineapple Technologies for about 20 months, I developed a great Point Of Sale, which I feel very proud, with inventory management and integration with Fiscal Printers through a Rasperry Pi (Invu POS). Meanwhile since I have always made the backends for my personal projects, I started to learn Node.js, changing from the ageing PHP, which worked perfect for the server I installed in the Rasperry Pi projects.
+
+Now I'm in Madrid more focused on iOS Development, learning a lot about best practices and evolving together with Swift.
 
 
 ## Job Experience
+* Lola Market (November 2018 - Present)
+  * Maintain, update and add new feature to Clients and Shoppers App
+  * Update Obj-C code base to clean Swift.
 * Quadram Services (February 2018 - September 2018)
   * Develop new and update more than 6 different apps in iOS with different requirements.
   * Create Cocoapods Frameworks for code sharing between projects.
@@ -79,3 +84,8 @@ Link: https://itunes.apple.com/us/app/invu-pos/id1147292528
 
 ### Invu Fiscal
 React Web App, I may open source it soon.
+
+### Lola Market for Clients
+Link: https://apps.apple.com/es/app/lola-market/id973135261
+
+### Lola Market for Shoppers
