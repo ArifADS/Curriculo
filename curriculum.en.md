@@ -13,13 +13,13 @@ Later, I moved to Panama and worked as a freelance, I developed an app named "RT
 
 After that I worked in a company named Pineapple Technologies for about 20 months, I developed a great Point Of Sale, which I feel very proud, with inventory management and integration with Fiscal Printers through a Rasperry Pi (Invu POS). Meanwhile since I have always made the backends for my personal projects, I started to learn Node.js, changing from the ageing PHP, which worked perfect for the server I installed in the Rasperry Pi projects.
 
-Now I'm in Madrid more focused on iOS Development, learning a lot about best practices and evolving together with Swift.
+Now I'm in Madrid more focused on iOS Development, learning a lot about best practices and evolving together with Swift and SwiftUI.
 
 
 ## Job Experience
 * Lola Market (November 2018 - Present)
   * Maintain, update and add new feature to Clients and Shoppers App
-  * Update Obj-C code base to clean Swift.
+  * Migrate whole Obj-C app to Swift and SwiftUI
 * Quadram Services (February 2018 - September 2018)
   * Develop new and update more than 6 different apps in iOS with different requirements.
   * Create Cocoapods Frameworks for code sharing between projects.
@@ -42,7 +42,6 @@ Now I'm in Madrid more focused on iOS Development, learning a lot about best pra
 * Javascript (Node.js, React)
 * Obj-C
 * PHP
-* AutoIT
 * C/++
 
 ## Skills
@@ -89,3 +88,4 @@ React Web App, I may open source it soon.
 Link: https://apps.apple.com/es/app/lola-market/id973135261
 
 ### Lola Market for Shoppers
+Picking groceries App for Lola Market Shoppers.
