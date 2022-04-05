@@ -1,7 +1,6 @@
 # Arif De Sousa
 
 ## Personal Info
-* Phone Number: +34684161653
 * Birthdate: **July 9th, 1992**
 * Email: arifads@gmail.com
 * GitHub: https://github.com/ArifADS
@@ -11,15 +10,18 @@ I started to learn programming with a scripting language called AutoIt, for Wind
 
 Later, I moved to Panama and worked as a freelance, I developed an app named "RTC GPS" that uses Google Maps services and a GPS installed in a vehicle, so you can have basic controls of its location, ignition, etc. It later integrated Bluetooth that calculates proximity and keyless door opening. 
 
-After that I worked in a company named Pineapple Technologies for about 20 months, I developed a great Point Of Sale, which I feel very proud, with inventory management and integration with Fiscal Printers through a Rasperry Pi (Invu POS). Meanwhile since I have always made the backends for my personal projects, I started to learn Node.js, changing from the ageing PHP, which worked perfect for the server I installed in the Rasperry Pi projects.
+After that I worked in a company named Pineapple Technologies for about 20 months, I developed an awesome Point Of Sale, which I feel very proud, with inventory management and integration with Fiscal Printers through a Rasperry Pi (Invu POS). Meanwhile since I have always made the backends for my personal projects, I started to learn Node.js, changing from the ageing PHP, which worked perfect for the server I installed in the Rasperry Pi projects.
 
 Now I'm in Madrid more focused on iOS Development, learning a lot about best practices and evolving together with Swift and SwiftUI.
 
 
 ## Job Experience
 * Lola Market (November 2018 - Present)
-  * Maintain, update and add new feature to Clients and Shoppers App
-  * Migrate whole Obj-C app to Swift and SwiftUI
+  * Maintain, update and add new feature both Clients and Shoppers App
+  * Migrate Client app from Obj-C to modern Swift
+  * Migrate whole Shoppers app from UIKit to SwiftUI
+  * Improve localization and deployments pipelines
+  * Modularize codebase for a scalable team
 * Quadram Services (February 2018 - September 2018)
   * Develop new and update more than 6 different apps in iOS with different requirements.
   * Create Cocoapods Frameworks for code sharing between projects.
@@ -38,11 +40,8 @@ Now I'm in Madrid more focused on iOS Development, learning a lot about best pra
 * English, fluent.
 
 ## Programming languages
-* Swift (Cocoa Touch)
+* Swift & SwiftUI
 * Javascript (Node.js, React)
-* Obj-C
-* PHP
-* C/++
 
 ## Skills
 * Time Management
