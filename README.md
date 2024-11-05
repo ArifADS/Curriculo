@@ -14,30 +14,31 @@ Currently based in Madrid, I’m deeply focused on advancing my skills in iOS de
 
 
 ## Job Experience
-* Glovo (January 2023 - Present)
-  * Create from scratch the iOS App for qCommerce Shoppers
-  * Work together with product managers for creating a great native UI/UX
 
-* Lola Market (November 2018 - January 2023)
-  * Maintain, update and add new feature both Clients and Shoppers App
-  * Migrate Client app from Obj-C to modern Swift
-  * Migrate whole Shoppers app from UIKit to SwiftUI
-  * Improve localization and deployments pipelines
-  * Modularize codebase for a scalable team
+### Glovo (January 2023 - Present)
+* Create from scratch the iOS App for qCommerce Shoppers
+* Work together with product managers for creating a great native UI/UX
 
-* Quadram Services (February 2018 - September 2018)
-  * Develop new and update more than 6 different apps in iOS with different requirements.
-  * Create Cocoapods Frameworks for code sharing between projects.
+### Lola Market (November 2018 - January 2023)
+* Maintain, update and add new feature both Clients and Shoppers App
+* Migrate Client app from Obj-C to modern Swift
+* Migrate whole Shoppers app from UIKit to SwiftUI
+* Improve localization and deployments pipelines
+* Modularize codebase for a scalable team
 
-* Pineapple Technologies (March 2016 - August 2017)
-  * Backend Node.js
-  * Fiscal receipt system in Node.js
-  * iOS PoS App
-  * Web SPA in React for Receipt management.
+### Quadram Services (February 2018 - September 2018)
+* Develop new and update more than 6 different apps in iOS with different requirements.
+* Create Cocoapods Frameworks for code sharing between projects.
 
-* Globaltronic GPS (Since May 2015, Freelance)
-  * iOS Development
-  * Back-end Parse/Push/PHP
+### Pineapple Technologies (March 2016 - August 2017)
+* Backend Node.js
+* Fiscal receipt system in Node.js
+* iOS PoS App
+* Web SPA in React for Receipt management.
+
+### Globaltronic GPS (Since May 2015, Freelance)
+* iOS Development
+* Back-end Parse/Push/PHP
 
 
 ## Languages
@@ -69,27 +70,25 @@ Currently based in Madrid, I’m deeply focused on advancing my skills in iOS de
 
 ## Apps
 
-### Beisbol Hoy
-My first and personal app, it shows live results of the Venezuelan Baseball League, send push notifications for the Games, and everything new I learn in the year I implement it in the App, I open sourced it on Github.
+### Shopper Picking App
+Enterprise app for qCommerce branch in Glovo
 
-Link: https://github.com/ArifADS/Beisbol-Hoy
+### Lola Market for Clients - [App Store](https://apps.apple.com/es/app/lola-market/id973135261)
 
-### Globaltronic GPS
-It shows the geoposition of your vehicle and send predefined alerts by the user
-Link: https://itunes.apple.com/us/app/rtc-gps/id1044753113
 
-### Nemesis Connect
-Same as Globaltronic GPS but with Bluetooth alarm and proximity Sensor
-Link: https://itunes.apple.com/us/app/nemesis-connect/id1256174998
-
-### Invu POS
-Link: https://itunes.apple.com/us/app/invu-pos/id1147292528
+### Lola Market for Shoppers
+Picking groceries App for Lola Market Shoppers.
 
 ### Invu Fiscal
 React Web App
 
-### Lola Market for Clients
-Link: https://apps.apple.com/es/app/lola-market/id973135261
+### Invu POS - [App Store](https://itunes.apple.com/us/app/invu-pos/id1147292528)
 
-### Lola Market for Shoppers
-Picking groceries App for Lola Market Shoppers.
+### Nemesis Connect - [App Store](https://itunes.apple.com/us/app/nemesis-connect/id1256174998)
+Same as Globaltronic GPS but with Bluetooth alarm and proximity Sensor
+
+### Globaltronic GPS - [App Store](https://itunes.apple.com/us/app/rtc-gps/id1044753113)
+It shows the geoposition of your vehicle and send predefined alerts by the user
+
+### Beisbol Hoy - [Github](https://github.com/ArifADS/Beisbol-Hoy)
+My first and personal app, it shows live results of the Venezuelan Baseball League, send push notifications for the Games, and everything new I learn in the year I implement it in the App, I open sourced it on Github.
