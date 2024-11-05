@@ -1,35 +1,40 @@
 # Arif De Sousa
 
 ## Personal Info
-* Birthdate: **July 9th, 1992**
+* Birth year: **1992**
 * Email: arifads@gmail.com
 * GitHub: https://github.com/ArifADS
 
 ## About me
-I started to learn programming with a scripting language called AutoIt, for Windows. When I changed to macOS I started on iOS Development with a personal app named "Beisbol Hoy", or "Baseball Today" in english, when iOS 7 landed in 2013, written in Obj-C but the next year I changed it to Swift 1.
+I began my programming journey with AutoIt, a scripting language for Windows, which sparked my interest in software development. When I transitioned to macOS, I dove into iOS development, creating my first personal app, Beisbol Hoy (“Baseball Today”), when iOS 7 launched in 2013. Initially written in Objective-C, I rewrote it in Swift the following year, embracing the new language and its evolving capabilities.
 
-Later, I moved to Panama and worked as a freelance, I developed an app named "RTC GPS" that uses Google Maps services and a GPS installed in a vehicle, so you can have basic controls of its location, ignition, etc. It later integrated Bluetooth that calculates proximity and keyless door opening. 
+After relocating to Panama, I expanded my expertise through freelance work. One notable project was RTC GPS, an app integrating Google Maps and GPS systems to provide real-time vehicle tracking, along with features like proximity-based Bluetooth control and keyless entry. My work in Panama eventually led me to Pineapple Technologies, where I spent over a year and a half developing a robust Point of Sale system (Invu POS). This project, which included inventory management and integration with fiscal printers via Raspberry Pi, was an incredible learning experience and remains a highlight of my career.
 
-After that I worked in a company named Pineapple Technologies for about 20 months, I developed an awesome Point Of Sale, which I feel very proud, with inventory management and integration with Fiscal Printers through a Rasperry Pi (Invu POS). Meanwhile since I have always made the backends for my personal projects, I started to learn Node.js, changing from the ageing PHP, which worked perfect for the server I installed in the Rasperry Pi projects.
-
-Now I'm in Madrid more focused on iOS Development, learning a lot about best practices and evolving together with Swift and SwiftUI.
+Currently based in Madrid, I’m deeply focused on advancing my skills in iOS development, particularly with Swift and SwiftUI. I am passionate about adopting best practices and continuously evolving with the latest advancements in the software developing world.
 
 
 ## Job Experience
-* Lola Market (November 2018 - Present)
+* Glovo (January 2023 - Present)
+  * Create from scratch the iOS App for qCommerce Shoppers
+  * Work together with product managers for creating a great native UI/UX
+
+* Lola Market (November 2018 - January 2023)
   * Maintain, update and add new feature both Clients and Shoppers App
   * Migrate Client app from Obj-C to modern Swift
   * Migrate whole Shoppers app from UIKit to SwiftUI
   * Improve localization and deployments pipelines
   * Modularize codebase for a scalable team
+
 * Quadram Services (February 2018 - September 2018)
   * Develop new and update more than 6 different apps in iOS with different requirements.
   * Create Cocoapods Frameworks for code sharing between projects.
+
 * Pineapple Technologies (March 2016 - August 2017)
   * Backend Node.js
   * Fiscal receipt system in Node.js
   * iOS PoS App
   * Web SPA in React for Receipt management.
+
 * Globaltronic GPS (Since May 2015, Freelance)
   * iOS Development
   * Back-end Parse/Push/PHP
@@ -81,7 +86,7 @@ Link: https://itunes.apple.com/us/app/nemesis-connect/id1256174998
 Link: https://itunes.apple.com/us/app/invu-pos/id1147292528
 
 ### Invu Fiscal
-React Web App, I may open source it soon.
+React Web App
 
 ### Lola Market for Clients
 Link: https://apps.apple.com/es/app/lola-market/id973135261
