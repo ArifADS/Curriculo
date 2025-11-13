@@ -10,17 +10,24 @@
 - Led development of Glovo’s internal qCommerce app
 - Migrated legacy apps to modular Swift architectures
 - Passionate about clean code, product thinking, and scalability
+- Currently building VamosApp, a SwiftUI + Supabase product showcasing iOS +26 technologies and design.
 
 ## About Me
 
 I am a seasoned iOS engineer with over a decade of experience, ranging from Objective-C and UIKit to modern SwiftUI and async/await. I started my programming journey with AutoIt and quickly transitioned into mobile development, building my first app — Beisbol Hoy — in 2013. Since then, I've contributed to various impactful products across multiple domains, from consumer-facing marketplaces to internal enterprise tools.
 
-My freelance work in Panama led to full-time roles where I specialized in complex integrations like Bluetooth, geolocation, and fiscal printing. Notably, I developed a robust iOS Point of Sale system (Invu POS) integrated with Raspberry Pi for hardware control. After moving to Spain, I worked on scaling grocery and qCommerce apps, leading initiatives to modernize legacy codebases and implement SwiftUI architectures.
+My freelance work led to full-time roles where I specialized in complex integrations like Bluetooth, geolocation, and fiscal printing. Notably, I developed a robust iOS Point of Sale system (Invu POS) integrated with Raspberry Pi for hardware control. After moving to Spain, I worked on scaling grocery and qCommerce apps like Lola Market and Glovo, leading initiatives to modernize legacy codebases and implement SwiftUI architectures.
 
 I thrive in fast-paced environments, and currently focused on scalable SwiftUI architecture, performance and modularization, I value clean and maintainable code, and enjoy collaborating across disciplines to create seamless product experiences.
 
 
 ## Job Experience
+
+### VamosApp – Independent iOS Product (July 2025 – Present)
+* Designing and developing VamosApp, a modern trip-management and bill-splitting app built from the ground up for iOS 26.
+* Implementing the full experience in SwiftUI, including custom navigation, transitions, gestures, and SwiftData persistence.
+* Building a scalable backend using Supabase with real-time sync, RLS-secured data models, and Sign in with Apple authentication.
+* Driving the entire product lifecycle — from UX prototyping and architecture to release planning — to validate consumer demand through rapid iteration.
 
 ### Glovo (January 2023 - June 2025)
 * Built and maintained iOS apps for both internal operations and Glovo's customer-facing platform
@@ -76,6 +83,9 @@ Experienced building iOS apps with persistent data (Realm, SQLite), modern concu
 
 
 ## Apps
+
+### Vamos App - [TestFlight](https://testflight.apple.com/join/c1j4RtsY)
+Vamos App helps you organize trips with friends by tracking expenses, splitting bills, and keeping every plan in one place.
 
 ### Glovo Customer App – [App Store](https://apps.apple.com/es/app/glovo-food-grocery-delivery/id951812684)
 Glovo's customer-facing app (10M+ downloads). Contributed as part of the Search team to modularize search-related features, implement backend-driven UI, and adopt SwiftUI components.
